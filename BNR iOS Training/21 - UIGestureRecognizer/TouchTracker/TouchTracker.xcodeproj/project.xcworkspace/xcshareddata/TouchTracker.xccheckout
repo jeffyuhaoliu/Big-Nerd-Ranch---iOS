@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44367AB2-A596-4182-99A3-F4B30B6084A0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TouchTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D39A72AB-6259-4234-B5E6-BC6F2CA16890</key>
+		<string>https://github.com/jeffyuhaoliu/Big-Nerd-Ranch---iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BNR iOS Training/21 - UIGestureRecognizer/TouchTracker/TouchTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D39A72AB-6259-4234-B5E6-BC6F2CA16890</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jeffyuhaoliu/Big-Nerd-Ranch---iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D39A72AB-6259-4234-B5E6-BC6F2CA16890</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D39A72AB-6259-4234-B5E6-BC6F2CA16890</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Big Nerd Ranch - iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
